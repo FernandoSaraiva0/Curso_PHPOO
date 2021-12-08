@@ -4,7 +4,7 @@
    PHP Orientado a Objetos
 </h1>
 
-<p>Seja bem-vindo à nossa UC3P</p> 
+<p>Seja bem-vindo à nossa UC3</p> 
 
 <p align="center">
   <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -14,14 +14,14 @@
 </p>
 <br>
 
-## 🧪 Technologies
+## 🧪 Tecnologias
 
 This project was developed using the following technologies:
 
 - [PHP 7.3.5](https://www.php.net/releases/7_3_5.php/)
-- [Nginx](nginx.com)
-- [Wordpress](https://www.wordpress.org//)
-- [UiKit](https://getuikit.com/)
+- [XAMPP](nginx.com)
+- [MySQL](https://www.wordpress.org//)
+- [Bootstrap](https://getuikit.com/)
 
 ## 🚀 Getting started
 
