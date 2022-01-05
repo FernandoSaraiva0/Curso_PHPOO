@@ -18,7 +18,7 @@
 
 This project was developed using the following technologies:
 
-- [PHP 7.3.5](https://www.php.net/releases/7_3_5.php/)
+- [PHP 8](https://www.php.net/)
 - [XAMPP](nginx.com)
 - [MySQL](https://www.wordpress.org//)
 - [Bootstrap](https://getuikit.com/)
