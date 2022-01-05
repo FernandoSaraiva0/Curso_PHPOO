@@ -1,5 +1,5 @@
 <?php
-
+require "index.php";
 class Tv implements Construtor{
 
     function Ligar()
